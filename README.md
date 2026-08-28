@@ -85,3 +85,5 @@ Tested using **MacHWCheck Lite**:
 ✅ NVRAM               Accessible
 
 SIP: Custom Configuration
+##downloads
+Soon will be released on github
